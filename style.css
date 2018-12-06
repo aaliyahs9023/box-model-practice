@@ -9,19 +9,19 @@
 #title {
     background: yellow;
     /*add CSS here*/
-    
+   margin-bottom:80px; 
 }
 
 #subtitle {
     background: black;
     color: white;
     /*add CSS here*/
-    
+margin-bottom:80px;
 }
 
 .topic {
     background: lightgray;
     /*add CSS here*/
-    
+    display:inline-block;
+    margin:40px;
 }
-
